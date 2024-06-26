@@ -1,4 +1,4 @@
-# LibraryManagementSystem
+# Library Management System
 The University of Sun Amakapasa Library Management System is a software
 application designed to streamline the process of managing a library system. This
 system aims to simplify the work of bookkeepers by providing them with a convenient
